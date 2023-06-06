@@ -1,0 +1,20 @@
+{
+  "name": "wea-modernjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "variables": "node variables.js",
+    "objects": "node objects.js",
+    "arrays": "node arrays.js",
+    "functions": "node functions.js",
+    "classes": "node classes.js",
+    "async": "node async.js",
+    "modules": "node modules.js",
+    "modules-esm": "node modules-esm.mjs",
+    "api": "node api.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
